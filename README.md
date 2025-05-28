@@ -46,7 +46,9 @@ I struggled with git until I learned these 17 commands:
 
 
 
+##### PRACTICE
 
+URL <https://bytebytego.com/exercises/coding-patterns>
 
 
 
